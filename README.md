@@ -6,7 +6,7 @@ Site publicado em: https://cucaestudiocriativo.github.io/esbocos-leads/
 
 ## Esbocos publicados
 
-O Velho Eurico (v5): https://cucaestudiocriativo.github.io/esbocos-leads/velho-eurico-esboco-v5.html
+O Velho Eurico (v6): https://cucaestudiocriativo.github.io/esbocos-leads/velho-eurico-esboco-v6.html
 
 ## Como adicionar um novo esboco
 
